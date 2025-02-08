@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/coptLink"
+        android:title="复制网址" />
+    <item
+        android:id="@+id/openBrowser"
+        android:title="浏览器中打开" />
+    <item
+        android:id="@+id/zoomTool"
+        android:title="双指缩放工具" />
+    <item
+        android:id="@+id/refreshWeb"
+        android:title="刷新" />
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">172.20.10.2</domain>
+<!--        <domain includeSubdomains="true">192.168.2.108</domain>-->
+        <!-- 可以添加更多需要允许的域名 -->
+<!--        android:usesCleartextTraffic="true"-->
+        <domain includeSubdomains="true">*.*.*.*</domain>
+    </domain-config>
+</network-security-config>

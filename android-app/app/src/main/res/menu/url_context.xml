@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/copyURL"
+        android:title="复制URL" />
+    <item
+        android:id="@+id/changeURL"
+        android:title="编辑" />
+    <item
+        android:id="@+id/deleteURL"
+        android:title="删除" />
+</menu>

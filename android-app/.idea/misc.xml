@@ -1,0 +1,48 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1425" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/drawable/test.xml" value="0.1425" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_browser.xml" value="0.24048913043478262" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_class.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_gate.xml" value="0.2" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_review.xml" value="0.184375" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_review_story.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_review_video.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_show.xml" value="0.24048913043478262" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_show_story.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_show_video.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/activity_url.xml" value="0.24048913043478262" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/content_review_story.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/people_row.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/sctivity_show.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/show_row.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/url_row.xml" value="0.24048913043478262" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/layout/video_row.xml" value="0.2296875" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/menu/browser_option.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/menu/class_option.xml" value="0.264" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/menu/show_context.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/menu/story_option.xml" value="0.1703125" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/menu/story_review_option.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/menu/url_context.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/menu/url_option.xml" value="0.25885416666666666" />
+        <entry key="..\:/Files/DesktopM/projects/Android/OldFaces/app/src/main/res/menu/vedio_option.xml" value="0.1859375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.6032831737346102" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

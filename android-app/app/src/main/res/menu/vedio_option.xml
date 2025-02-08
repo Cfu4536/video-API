@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/fileName"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="按文件名升序" />
+        <item
+            android:id="@+id/fileNameReverse"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="按文件名降序" />
+        <item
+            android:id="@+id/fileSize"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="按文件大小升序" />
+        <item
+            android:id="@+id/fileSizeReverse"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="按文件大小降序" />
+    </group>
+
+    <item
+        android:id="@+id/refreshOnlineVideoList"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="刷新" />
+    <item
+        android:id="@+id/videoListSettings"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="设置" />
+    <item
+        android:id="@+id/videoClearCache"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="清理缓存" />
+</menu>

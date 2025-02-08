@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Old Faces</string>
+    <string name="name">name</string>
+    <string name="title_activity_review_story">ReviewStoryActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!--    path-->
+    <string name="base_path">/storage/emulated/0/OldFaces/</string>
+    <string name="src_path">/storage/emulated/0/OldFaces/src/</string>
+    <string name="cache_path">/storage/emulated/0/OldFaces/cache/</string>
+    <string name="data_path">/storage/emulated/0/OldFaces/data/</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!--    <string name="base_path">/storage/3933-3162/OldFaces/</string>-->
+    <!--    <string name="src_path">/storage/3933-3162/OldFaces/src/</string>-->
+    <!--    <string name="cache_path">/storage/3933-3162/OldFaces/cache/</string>-->
+    <!--    <string name="data_path">/storage/3933-3162/OldFaces/data/</string>-->
+
+
+</resources>
